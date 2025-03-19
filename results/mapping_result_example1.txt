@@ -1,0 +1,111 @@
+### Generated Output with Inline Citations
+
+In December, the Federal Reserve cut rates to 4.25%-4.5% [1], revised GDP growth to 2.5% [2], and adjusted inflation forecasts higher [2], with unemployment lower at 4.2% [2]. The US 10-year Treasury yield fluctuated, peaking at 4.62% [3] amid expectations of limited rate cuts in 2025 [4]. Core Personal Consumption Expenditure Index inflation rose minimally [5], while consumer confidence and durable goods orders declined [6]. President-elect Trump's pro-inflationary policies, including tariffs, heightened inflation concerns, leading to a 50 basis points yield increase in 2024 [7].
+
+The European Central Bank cut rates to 3% [8], forecasting 2025 growth at 1.1% [9] and inflation at 2.1% [9]. European bond yields rose due to inflation concerns and slower expected rate cuts by the ECB and Fed [10]. Germany's 10-year Bund yield peaked at 2.4% [11], while France's OAT reached 3.2% [12], and Italy's BTP hit 3.5% [13]. Political instability and economic uncertainties influenced these movements [14].
+
+The Bank of Japan held rates at 0.25% [15], with inflation between 2.0%-2.5% [16] and private consumption rising amid stable economic recovery [17]. Japan's 10-year bond yield hit a 13.5-year high of 1.11% [18], driven by rising inflation and a hawkish outlook [19].
+
+The Bank of England held rates at 4.75% [20] amid 2.6% inflation [21] and 5.2% wage growth [22], despite economic contraction [23] and some policymakers favoring a rate cut [24]. UK 10-year gilt yields rose to 4.6% [25], inflation hit 2.6% [21], and GDP flatlined [26], prompting cautious rate cut expectations for 2025 [27].
+
+Russia held rates at 21% [28] amid rising inflation [29], while Colombia cut rates to 9.5% [30], Jamaica to 6% [31], Uruguay hiked to 8.75% [32], Turkey cut to 47.5% [33], Egypt held at 27.25% [34], Tunisia at 8% [35], and the Dominican Republic lowered to 5.75% [36]. Bond yields rose in Vietnam (3.06%) [37], Romania (7.56%) [38], and Colombia (11.50%) [39], reaching multi-month highs. Australia's yield fluctuated, ending at 4.52% [40] amid the Reserve Bank of Australia's cautious stance [41]. Russia's yield surged to over 15.5% [42] due to inflation and sanctions [43]. Canada's yield fell to 3.28% [44] following US trends [45].
+
+Brent crude rose to $74 [46], gold increased 27% annually [47], and silver dropped to a three-month low below $29 [48].
+
+### Source List
+
+[1] [INTEREST_RATES]: "2024-12-18 19:01:06.427000: Fed Cuts Rates For 3rd Consecutive Time The Fed announced another 25bps cut to the federal funds rate in December 2024, marking the third consecutive reduction this year and bringing borrowing costs to the 4.25%-4.5% range, in line with expectations."
+
+[2] [ECONOMIC_PROJECTIONS]: "2024-12-18 19:01:06.427000: Fed Cuts Rates For 3rd Consecutive Time The Fed also revised its GDP growth forecasts upward for 2024 (2.5% vs to 2% in the September projection) and 2025 (2.1% vs 2%), while remaining steady at 2% for 2026. Similarly, PCE inflation projections have been adjusted higher for 2024 (2.4% vs 2.3%), 2025 (2.5% vs 2.1%), and 2026 (2.1% vs 2%). On the other hand, unemployment is seen lower this year (4.2% vs 4.4%) and in 2025 (4.3% vs 4.4%) while the forecast was kept at 4.3% for 2026."
+
+[3] [GOV_BOND]: "2024-12-26 04:30:49.460000: US 10-Year Yield Hits 7-Month High The yield on the 10-year US Treasury note rose to around 4.62%, hitting its highest level in almost seven months, as markets continued to assess the Federal Reserve’s monetary policy outlook following its hawkish projections last week."
+
+[4] [INTEREST_RATES]: "2024-12-20 04:19:55.430000: US 10-Year Yield Firms Up Ahead of PCE Inflation Data The yield on the 10-year US Treasury note remained near seven-month highs around 4.55% on Friday, as investors prepared for the latest PCE price index report, the Federal Reserve’s preferred inflation measure. Fed Chair Jerome Powell indicated this week that the PCE is likely to show the 12-month inflation rate remains above the central bank’s 2% target. His remarks followed the Fed’s widely anticipated quarter-point rate cut, although the central bank signaled fewer rate reductions in 2025 due to persistent inflation."
+
+[5] [INFLATION]: "2024-12-20 13:46:27.470000: 10-Year Treasury Yield Drops from 7-Month High The yield on the 10-year US Treasury note fell to below the 4.52% mark on Friday, pulling back from the week’s rally that lifted the yield to a near seven-month high as the latest inflation data favored the resumption of rate cuts by the Federal Reserve. Core PCE prices, which are the Fed’s preferred gauge of underlying inflation, rose the least in six months in the November print."
+
+[6] [ECONOMIC_DATA]: "2024-12-24 06:56:38.650000: US 10-Year Yield Stays Near 7-Month High Weaker economic data raised expectations that the Fed would implement fewer rate cuts next year. Disappointing US consumer confidence data and concerns over the potential worsening of the country’s fiscal outlook under President-elect Donald Trump led markets to adjust their expectations. The Conference Board's consumer confidence index for December fell to a three-month low of 104.7, down from 111.7 in November. Meanwhile, durable goods orders dropped 1.1% month-over-month in November, marking the third decline in the past four months."
+
+[7] [GOV_BOND]: "2024-12-30 04:13:04.807000: US 10-Year Treasury Yield Holds Above 4.6% The yield on the 10-year US Treasury note remained above the 4.6% mark on Monday, sustaining its highest level since early May, amid expectations of more limited Federal Reserve rate cuts in 2025. Investors also pared debt holdings ahead of the year-end, adding upward pressure on yields. Recent data underscores the resilience of the US economy. Initial unemployment claims in mid-December were lower than expected, indicating a robust labor market, while strong retail sales and services activity highlighted healthy consumer demand. These trends align with FOMC projections that suggest the Fed will cut rates only twice by 25bps next year, prioritizing inflation control over labor market concerns. Meanwhile, inflation risks are magnified by President-elect Trump’s proposals for tariffs on key trading partners, tax cuts, and expansionary fiscal policies. Markets now price in just two rate cut for 2025, reflecting persistent inflation concerns and a cautious outlook on monetary easing."
+
+[8] [INTEREST_RATES]: "2024-12-12 13:16:53.213000: ECB Cuts Rates by Another 25 bps as Expected The European Central Bank (ECB) has decided to cut its key interest rates for the fourth time this year by 25 bps in December 2024, as expected."
+
+[9] [ECONOMIC_PROJECTIONS]: "2024-12-12 13:16:53.213000: ECB Cuts Rates by Another 25 bps as Expected Inflation is expected to gradually decrease, with forecasts of 2.4% in 2024, 2.1% in 2025, and 1.9% in 2026. Core inflation, excluding energy and food, is also expected to fall, with a target of 2% in the medium term. Despite easing financing conditions due to the rate cuts, borrowing costs remain tight due to previous hikes still affecting existing loans. Economic recovery is projected to be slower than before, with growth expected at 0.7% in 2024, 1.1% in 2025, and 1.4% in 2026."
+
+[10] [GOV_BOND]: "2024-12-27 11:55:58.350000: German 10-Year Bund Yield Climbs to 7-Week High Germany's 10-year Bund yield surged toward 2.4%, its highest in seven weeks, as investors believe the ECB will need to slow down interest rate cuts. Rising natural gas prices, partly due to uncertainty over Russian supplies through Ukraine, raised inflation concerns making it harder for the European Central Bank (ECB) to cut interest rates."
+
+[11] [GOV_BOND]: "2024-12-27 11:55:58.350000: German 10-Year Bund Yield Climbs to 7-Week High Germany's 10-year Bund yield surged toward 2.4%, its highest in seven weeks, as investors believe the ECB will need to slow down interest rate cuts."
+
+[12] [GOV_BOND]: "2024-12-27 13:45:43.617000: French 10-Year OAT Yield Rises Toward 4-Month High The yield on the 10-year French OAT rose toward the 3.2% mark in December, the highest since touching a four-month high of 3.21% on November 7th as concerns of upside inflation risks for major economies limited the room for rate cuts by major central banks next year."
+
+[13] [GOV_BOND]: "2024-12-27 12:35:41.313000: Italy 10-Year Bond Yield At Over 1-Month High Italy’s 10-year BTP yield surged above 3.50%, the highest level in over a month, mirroring other European peers, as traders considered the possibility of a slower pace of interest rate reductions by the U.S. Federal Reserve in the coming year."
+
+[14] [POLITICAL]: "2024-12-27 12:35:41.313000: Italy 10-Year Bond Yield At Over 1-Month High Italy’s 10-year BTP yield surged above 3.50%, the highest level in over a month, mirroring other European peers, as traders considered the possibility of a slower pace of interest rate reductions by the U.S. Federal Reserve in the coming year. Additionally, bets on ECB rate cuts were scaled back as concerns grew over higher natural gas prices, linked to uncertainty surrounding Russia's supplies and ongoing political instability, which could heighten inflation risks."
+
+[15] [INTEREST_RATES]: "2024-12-19 03:02:26.517000: BoJ Holds Rates as Expected The Bank of Japan (BoJ) maintained its key short-term interest rate at around 0.25% during its final meeting of the year, keeping it at the highest level since 2008 and meeting market consensus."
+
+[16] [INFLATION]: "2024-12-19 03:02:26.517000: BoJ Holds Rates as Expected On inflation, the yoy figures have ranged between 2.0% and 2.5%, driven by higher service prices."
+
+[17] [ECONOMIC_DATA]: "2024-12-19 03:02:26.517000: BoJ Holds Rates as Expected The board adhered to its assessment that Japan's economy is on track for a moderate recovery, despite some areas of weakness. Private consumption continued its upward trend, aided by improving corporate profits and business spending."
+
+[18] [GOV_BOND]: "2024-12-27 07:57:18.850000: Japan 10Y Bond Yield Hits 13-1/2-year High Japan 10 Year Government Bond Yield increased to a 13-1/2-year high of 1.11%."
+
+[19] [INFLATION]: "2024-12-27 07:57:18.850000: Japan 10Y Bond Yield Hits 13-1/2-year High Over the past 4 weeks, Japan 10Y Bond Yield gained 5.28 basis points, and in the last 12 months, it increased 52.00 basis points."
+
+[20] [INTEREST_RATES]: "2024-12-19 12:02:41.827000: BoE Leaves Rates Steady The Bank of England left the benchmark bank rate steady at 4.75% during its December 2024 meeting, in line with market expectations."
+
+[21] [INFLATION]: "2024-12-19 07:53:12.993000: BoE Seen Leaving Rates Steady Annual inflation rate in the UK rose for a second month to 2.6% in November as expected."
+
+[22] [LABOUR]: "2024-12-19 07:53:12.993000: BoE Seen Leaving Rates Steady Also, wage growth surpassed expectations at 5.2%."
+
+[23] [ECONOMIC_DATA]: "2024-12-19 07:53:12.993000: BoE Seen Leaving Rates Steady The economy contracted 0.1% for a second month in October."
+
+[24] [INTEREST_RATES]: "2024-12-19 12:02:41.827000: BoE Leaves Rates Steady However, three policymakers preferred to reduce the bank rate by 25bps to 4.5% on the back of sluggish demand and a weakening labour market."
+
+[25] [GOV_BOND]: "2024-12-19 08:07:15.877000: UK 10Y Bond Yield Hits 13-month High UK 10 Year Government Bond Yield increased to a 13-month high of 4.65%."
+
+[26] [ECONOMIC_DATA]: "2024-12-23 10:33:55.297000: UK 10-Year Gilt Yield Up 100 bps in 2024 The UK’s economic outlook remains bleak, with GDP flatlining in the third quarter and second-quarter growth revised down to 0.4%."
+
+[27] [INTEREST_RATES]: "2024-12-19 12:21:02.947000: UK 10-Year Gilt Yield Slightly Pares Gains Market expectations for rate cuts in 2025 have adjusted, with traders now pricing in 62bps of reductions, down from 70bps earlier in the week."
+
+[28] [INTEREST_RATES]: "2024-12-20 10:41:15.540000: Bank of Russia Unexpectedly Holds Rate at 21% The Bank of Russia held its key interest rate unchanged at the record high of 21% in its December meeting."
+
+[29] [INFLATION]: "2024-12-20 10:41:15.540000: Bank of Russia Unexpectedly Holds Rate at 21% The central bank cited low credit activity as the warrant for the pause in rate hikes, but reiterated that underlying inflation continued to rise amid higher expectations from households and business."
+
+[30] [INTEREST_RATES]: "2024-12-20 19:09:09.560000: Colombia Cuts Rate to 9.5%, Less Than Expected The Central Bank of Colombia reduced its benchmark rate by 25 basis points to 9.5% in December."
+
+[31] [INTEREST_RATES]: "2024-12-20 21:55:13.663000: Jamaica Lowers Interest Rate by Another 25 bps The Bank of Jamaica cut its monetary policy rate by 25 basis points to 6% in December 2024."
+
+[32] [INTEREST_RATES]: "2024-12-23 20:14:56.540000: Uruguay Central Bank Hikes Rate to 8.75% The Central Bank of Uruguay raised its benchmark policy rate by 25 basis points to 8.75% during its December 2024 meeting."
+
+[33] [INTEREST_RATES]: "2024-12-26 11:21:12.130000: Turkey Delivers 250bps Rate Cut The Central Bank of Turkey cut its benchmark one-week repo auction rate by 250bps to 47.5% in its December 2024 decision."
+
+[34] [INTEREST_RATES]: "2024-12-26 18:31:37.327000: Egypt Maintains Interest Rate at Record High in December The Central Bank of Egypt maintained its benchmark interest rate unchanged at 27.25% during its December 2024 meeting."
+
+[35] [INTEREST_RATES]: "2024-12-29 22:56:54.217000: Tunisia Holds Key Interest Rate at 8% The Central Bank of Tunisia maintained its key interest rate at 8% on December 28, 2024."
+
+[36] [INTEREST_RATES]: "2024-12-30 19:04:19.817000: Dominican Republic Lowers Interest Rate to 5.75% The Central Bank of the Dominican Republic lowered its benchmark interest rate by 25 basis points to 5.75% during its December 2024 meeting."
+
+[37] [GOV_BOND]: "2024-12-19 04:20:04.727000: Vietnam 10Y Bond Yield Hits 13-month High Vietnam 10 Year Government Bond Yield increased to a 13-month high of 3.06%."
+
+[38] [GOV_BOND]: "2024-12-20 07:58:11.863000: Romania 10Y Bond Yield Hits 19-month High Romania 10 Year Government Bond Yield increased to a 19-month high of 7.56%."
+
+[39] [GOV_BOND]: "2024-12-26 16:15:05.873000: Colombia 10Y Bond Yield Hits 13-month High Colombia 10 Year Government Bond Yield increased to a 13-month high of 11.50%."
+
+[40] [GOV_BOND]: "2024-12-30 04:19:17.430000: Australia 10-Year Bond Yield Rises to Over 1-Month High Australia’s 10-year government bond yield jumped to around 4.52%, reaching its highest level in over a month."
+
+[41] [INTEREST_RATES]: "2024-12-24 02:53:21.233000: Australia 10-Year Bond Yield Steady After RBA Minutes Australia’s 10-year government bond yield held around 4.45% as investors assessed the Reserve Bank of Australia’s December policy meeting minutes."
+
+[42] [GOV_BOND]: "2024-12-30 18:48:38.300000: Russian Bond Yields Rise 320bps in 2024 The yield on the Russian 10-year OFZ was over the 15.5% mark at the turn of the year, surging over 320bps since the start of the year."
+
+[43] [INFLATION]: "2024-12-30 18:48:38.300000: Russian Bond Yields Rise 320bps in 2024 Surging inflation due to a plunging ruble, a labor-force crisis, and altered supply chains in response to sanctions drove the central bank to deliver 13.5 percentage points in rate hikes in the year."
+
+[44] [GOV_BOND]: "2024-12-20 18:06:05.217000: Canada 10-Year Bond Yield Tracks US Yields Lower Canada’s 10-year government bond yield fell to 3.28%, retreating from a monthly high of 3.345% on December 19."
+
+[45] [GOV_BOND]: "2024-12-20 18:06:05.217000: Canada 10-Year Bond Yield Tracks US Yields Lower Canada’s 10-year government bond yield fell to 3.28%, retreating from a monthly high of 3.345% on December 19, tracking US Treasury yields lower as softer-than-expected US inflation data strengthened the case for further Federal Reserve rate cuts."
+
+[46] [COMMODITIES]: "2024-12-27 18:49:09.403000: Brent Crude Rises Further Brent crude oil futures rose 1.2% to $74.2 per barrel on Friday amid a fresh decline in US oil inventories."
+
+[47] [COMMODITIES]: "2024-12-30 02:25:19.703000: Gold Edges Higher Gold traded above $2,620 per ounce on Monday amid thin holiday trading, with investors closely watching the U.S. Federal Reserve's monetary policy outlook and President-elect Donald Trump's tariff policies. The precious metal has risen over 27% so far this year, marking its best performance since 2010."
+
+[48] [COMMODITIES]: "2024-12-30 16:10:27.690000: Silver Drops to Over 3-Month Low Silver eased to below the $29 per ounce mark, the lowest level since September, amid the outlook of a hawkish Fed and uncertain demand for silver’s industrial utility."

@@ -1,0 +1,47 @@
+Input text:
+"""
+Generated Output
+The Bank of England raised interest rates by 0.5% to 5.25%, citing persistent inflation. Japan’s Q4 GDP contracted by 0.8%, driven by weak exports. Eurozone PMI rose to 52.1, signaling expansion in manufacturing activity. Canada’s CPI surged to 3.5%, prompting bond yields to spike. Australia’s unemployment rate held steady at 3.9%, despite a drop in mining sector jobs.
+
+Source News
+2025-05-10 11:30:00.000000: Bond Selloff Follows Inflation Data Canada’s 10-year government bond yield rose 15bps to 3.8% as traders priced in tighter monetary policy.
+
+2025-06-20 07:45:00.000000: Australian Jobless Rate Unchanged The unemployment rate remained at 3.9% in May, with 25,000 new jobs added, offsetting losses in the mining industry.
+
+2025-06-20 08:30:00.000000: Coal Demand Slump Hits Mining Jobs Australia’s mining sector shed 8,000 jobs in May as coal exports fell to a two-year low amid weaker Chinese demand.
+
+2025-02-01 09:30:00.000000: BoE Hikes Rates to Curb Inflation The Bank of England increased its benchmark rate by 50bps to 5.25%, the highest since 2008, as inflation remained stubbornly above the 2% target. Governor Bailey emphasized further tightening if price pressures persist.
+
+2025-03-15 12:45:00.000000: Japan’s Economy Shrinks in Q4 Preliminary data showed Japan’s GDP fell 0.8% quarter-over-quarter in Q4 2024, marking the first decline in three quarters due to sluggish global demand.
+
+2025-04-05 08:00:00.000000: Eurozone PMI Hits 8-Month High The Eurozone Manufacturing PMI climbed to 52.1 in March, surpassing forecasts and entering expansion territory for the first time since July 2024.
+
+2025-05-10 10:15:00.000000: Canada’s Inflation Accelerates Year-over-year CPI jumped to 3.5% in April, driven by rising energy and housing costs, exceeding the Bank of Canada’s 2% target.
+
+2025-03-15 14:20:00.000000: Export Slump Hits Manufacturing Jobs Japan’s exports dropped 5.2% in February, worsening factory output and raising unemployment in key industrial regions.
+
+"""
+
+Exspected Output:
+"""
+### Generated Output with Inline Citations
+
+The Bank of England raised interest rates by 0.5% to 5.25% [1], citing persistent inflation. Japan’s Q4 GDP contracted by 0.8% [2], driven by weak exports [2]. Eurozone PMI rose to 52.1 [3], signaling expansion in manufacturing activity. Canada’s CPI surged to 3.5% [4], prompting bond yields to spike [5]. Australia’s unemployment rate held steady at 3.9% [6], despite a drop in mining sector jobs [7]
+
+### Source List
+
+[1] [INTEREST_RATES]: "2025-02-01 09:30:00.000000: BoE Hikes Rates to Curb Inflation The Bank of England increased its benchmark rate by 50bps to 5.25%, the highest since 2008, as inflation remained stubbornly above the 2% target. Governor Bailey emphasized further tightening if price pressures persist."
+
+[2] [GDP]: "2025-03-15 12:45:00.000000: Japan’s Economy Shrinks in Q4 Preliminary data showed Japan’s GDP fell 0.8% quarter-over-quarter in Q4 2024, marking the first decline in three quarters due to sluggish global demand."
+
+[3] [PMI]: "2025-04-05 08:00:00.000000: Eurozone PMI Hits 8-Month High The Eurozone Manufacturing PMI climbed to 52.1 in March, surpassing forecasts and entering expansion territory for the first time since July 2024."
+
+[4] [CPI]: "2025-05-10 10:15:00.000000: Canada’s Inflation Accelerates Year-over-year CPI jumped to 3.5% in April, driven by rising energy and housing costs, exceeding the Bank of Canada’s 2% target."
+
+[5] [GOV_BOND]: "2025-05-10 11:30:00.000000: Bond Selloff Follows Inflation Data Canada’s 10-year government bond yield rose 15bps to 3.8% as traders priced in tighter monetary policy."
+
+[6] [LABOUR]: "2025-06-20 07:45:00.000000: Australian Jobless Rate Unchanged The unemployment rate remained at 3.9% in May, with 25,000 new jobs added, offsetting losses in the mining industry."
+
+[7] [COMMODITIES]: "2025-06-20 08:30:00.000000: Coal Demand Slump Hits Mining Jobs Australia’s mining sector shed 8,000 jobs in May as coal exports fell to a two-year low amid weaker Chinese demand."
+
+"""

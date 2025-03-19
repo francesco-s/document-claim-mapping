@@ -1,0 +1,37 @@
+### Generated Output with Inline Citations
+
+During the month of January, U.S. stocks experienced volatility, with the Nasdaq and S&P 500 rebounding mid-month due to tech sector strength, notably influenced by Nvidia's fluctuations [1]. The Federal Reserve paused its rate-cutting cycle, maintaining rates at 4.25%-4.5% [2], citing steady growth and stable labor markets [3]. The U.S. economy grew 2.3% in Q4 2024, driven by personal consumption [4], although fixed investment contracted [5] and net trade contribution remained unchanged [6]. Meta and Tesla exceeded earnings expectations [7].
+
+U.S. wages grew 0.3% month-over-month [8], while the unemployment rate fell to 4.1% [9], with employment rising by 478,000 [10]. Producer prices rose 0.2% in December, below expectations [11], with annual inflation at 3.3% [12]. The Consumer Price Index increased 0.4% monthly [13], with annual inflation at 2.9% [14], while core inflation eased to 3.2% [15].
+
+### Source List
+
+[1] [STOCKS]: "2025-01-28 21:02:08.660000: Tech Rebound Lifts Nasdaq 1.6% Ahead of Fed Decision U.S. stocks rebounded on Tuesday, led by the Nasdaq’s 1.5% surge, as technology shares recovered from Monday’s AI-driven sell-off triggered by Chinese startup DeepSeek’s announcement of a competitive AI model. Nvidia surged 8.8%, recovering part of its historic 17% single-session loss that erased $593 billion in market value."
+
+[2] [INTEREST_RATES]: "2025-01-29 19:01:10.900000: Fed Pauses Rate-Cut Cycle The Federal Reserve kept the fed funds rate steady at the 4.25%-4.5% range during its January 2025 meeting, in line with expectations."
+
+[3] [ECONOMY]: "2025-01-29 19:06:33.150000: US Stocks Drop Further after Fed Decision The Fed noted that growth remained steady and that the labor market was stable at strong levels."
+
+[4] [GDP]: "2025-01-30 13:33:36.550000: US Economy Slows More than Expected in Q4 The US economy expanded an annualized 2.3% in Q4 2024, the slowest growth in three quarters, down from 3.1% in Q3 and forecasts of 2.6%, according to the advance estimate from the BEA. Personal consumption remained the main driver of growth, increasing 4.2%."
+
+[5] [GDP]: "2025-01-30 13:33:36.550000: US Economy Slows More than Expected in Q4 On the other hand, fixed investment contracted for the first time since Q1 2023 (-0.6% vs 2.1%)."
+
+[6] [GDP]: "2025-01-30 13:33:36.550000: US Economy Slows More than Expected in Q4 Both exports (-0.8% vs 9.6%) and imports (-0.8% vs 10.7%) contracted, leaving the contribution from net trade little changed."
+
+[7] [EARNINGS]: "2025-01-30 00:21:41.320000: US Futures Rise After Big Tech Earnings Tesla saw a 4% rise despite posting weaker-than-expected quarterly results, while Meta Platforms climbed 2% after surpassing both earnings and revenue estimates."
+
+[8] [LABOUR]: "2025-01-10 13:32:13.080000: US Wages Growth Slows to 0.3% MoM as Forecast Average hourly earnings for all employees on private nonfarm payrolls rose by 10 cents, or 0.3% over a month, to $35.69 in December 2024."
+
+[9] [LABOUR]: "2025-01-10 13:32:42.973000: US Jobless Rate Unexpectedly Falls The unemployment rate in the United States went down to 4.1% in December of 2024 from 4.2% in the previous month."
+
+[10] [LABOUR]: "2025-01-10 13:32:42.973000: US Jobless Rate Unexpectedly Falls Employment levels increased by 478,000 to 161.661 million."
+
+[11] [INFLATION]: "2025-01-14 13:33:27.847000: US Producer Prices Rise Less Than Expected Factory gate prices in the US increased 0.2% mom in December 2024, below 0.4% in November which was the biggest gain in five months, and compared to forecasts of 0.3%."
+
+[12] [INFLATION]: "2025-01-14 13:33:27.847000: US Producer Prices Rise Less Than Expected On an annual basis, producer price inflation accelerated for a third straight month to 3.3%."
+
+[13] [INFLATION]: "2025-01-15 13:33:04.990000: US Inflation Rate Rises for Third Month, but Core Rate Slows On a monthly basis, the CPI rose by 0.4%, the most since March, and above forecasts of 0.3%."
+
+[14] [INFLATION]: "2025-01-15 13:33:04.990000: US Inflation Rate Rises for Third Month, but Core Rate Slows The annual inflation rate in the US rose for a 3rd consecutive month to 2.9% in December 2024 from 2.7% in November."
+
+[15] [INFLATION]: "2025-01-29 07:29:57.633000: Fed Set to Pause Rate-Cut Cycle Meanwhile, the annual inflation rate in the US rose for the third consecutive month to 2.9% in December but core inflation eased unexpectedly to 3.2%, offering some relief."
