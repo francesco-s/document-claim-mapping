@@ -13,6 +13,7 @@ project_root/
 │   ├── prompt_manager.py      # Prompt template creation and management
 │   ├── processor.py           # Document processing logic
 │   ├── utils.py               # Utility functions
+│   ├── eval.py                # Evaluation functions
 │   └── main.py                # Entry point script
 ├── data/                      # Data directory
 │   ├── annotations/           # Examples and annotations
